@@ -1,3 +1,5 @@
+import problema1
+from alumnos import alumnos
 """
 Hasta ahora hemos trabajado con variables que opermiten almacenar un unico valor
 """
@@ -34,3 +36,10 @@ if __name__ == '__main__':
 
     print(lista1)
 
+    print()
+
+    problema1.sumar_5_enteros()
+
+    print()
+
+    alumnos()
